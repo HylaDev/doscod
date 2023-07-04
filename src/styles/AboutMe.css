@@ -1,0 +1,10 @@
+.aboutMe h1{
+    color: black;
+    padding: 12px 32px;
+}
+.aboutMe p{
+    color: #000;
+}
+.aboutMe .about-img{
+    width: 500px;
+}
